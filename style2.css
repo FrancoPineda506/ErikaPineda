@@ -1,0 +1,40 @@
+body {
+    background-image: url(https://previews.123rf.com/images/aunaauna/aunaauna1501/aunaauna150100075/35874658-tela-textura-de-fondo-patr%C3%B3n-sin-fisuras-para-el-dise%C3%B1o-web-fondo-de-escritorio-o-p%C3%A1gina-web-.jpg);
+    background-size: 650px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 30px;
+}
+
+.caja{
+    border: 5px black solid;
+    background-color: white;
+    padding: 10px;
+    margin: 20px;
+    text-decoration: none;
+}
+
+h1{
+    font-family: 'Bonheur Royale', cursive;
+    font-size: 80px;
+}
+
+a:hover.caja    {   background-color: rgb(214, 213, 214);   }
+a:visited.caja  {   color: black;  }
+a:link.caja     {   color: black;  }
+a:active.caja   {
+                    border-right: 5px solid #899c9c;
+                    border-bottom: 5px solid #899c9c;
+                    border-top: 5px solid #b1c9c9;
+                    border-left: 5px solid #b1c9c9;   
+                    background-color:#b1c9c9;
+}
+
+img{
+
+    border: 6px black solid;
+    background-color: white;
+    padding: 4px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
